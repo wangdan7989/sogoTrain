@@ -1,0 +1,3 @@
+http://blog.csdn.net/mmc2015/article/details/46852963
+正确率：65
+      去掉停用词：67.8
